@@ -1,0 +1,7 @@
+﻿Drive,Spinup 5v,Spinup 12v,Idle 5v,Idle 12v,Spundown 5v,Spundown 12v,Seqread 5v,Seqread 12v,Randrw 5v,Randrw 12v
+Seagate Barracuda,0.3,1.4,0.16,0.29,0.03,0,0.43,0.31,0.21,0.49
+Seagate Ironwolf,0.46,1.4,0.25,0.47,0.1,0.01,0.8,0.52,0.39,0.65
+Used HGST,0.36,1.45,0.2,0.36,0.12,0.01,0.63,0.36,0.31,0.5
+Shucked Air,0.26,1.5,0.15,0.55,0.08,0.01,0.47,0.57,0.22,0.64
+Shucked Helium,0.38,1.47,0.17,0.3,0.1,0.01,0.46,0.31,0.24,0.4
+WD Gold,0.15,1.4,0.28,0.42,0.025,0,0.71,0.43,0.35,0.67
